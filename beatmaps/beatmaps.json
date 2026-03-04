@@ -1,0 +1,46 @@
+{
+  "songs": [
+    {
+      "id": "piles",
+      "title": "Piles",
+      "audio": "piles.mp3",
+      "file": "piles.beatmap"
+    },
+    {
+      "id": "boom",
+      "title": "Boom",
+      "audio": "boom.mp3",
+      "file": "boom.beatmap"
+    },
+      {
+      "id": "adlib",
+      "title": "Adlib",
+      "audio": "adlib.mp3",
+      "file": "adlib.beatmap"
+    },
+        {
+      "id": "dystopia",
+      "title": "Dystopia",
+      "audio": "piles.mp3",
+      "file": "dystopia.beatmap"
+    },
+       {
+      "id": "dystopia2",
+      "title": "Dystopia 2",
+      "audio": "piles.mp3",
+      "file": "dystopia2.beatmap"
+    },
+      {
+      "id": "intercosmic",
+      "title": "Intercosmic",
+      "audio": "intercosmic.mp3",
+      "file": "intercosmic.beatmap"
+    },
+       {
+      "id": "intercosmic2",
+      "title": "Intercosmic 2",
+      "audio": "intercosmic2.mp3",
+      "file": "intercosmic2.beatmap"
+    }
+  ]
+}
